@@ -1,0 +1,8 @@
+name = "nillion-quickstart"
+version = "0.1.0"
+authors = [""]
+
+[[programs]]
+path = "src/orderbook.py"
+name = "orderbook"
+prime_size = 128
